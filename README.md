@@ -1,3 +1,3 @@
 # ProjectA
 
-test
+Details about the sample project
